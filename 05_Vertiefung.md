@@ -259,8 +259,8 @@ import: https://raw.githubusercontent.com/andre-dietrich/H5P-embed/main/README.m
 
 ```markdown
 <!--
-import: https://raw.githubusercontent.com/Co-WOERK/handbuch-style/main/README.md
-link:   https://raw.githubusercontent.com/Co-WOERK/handbuch-style/main/style.css
+import: https://raw.githubusercontent.com/IHR-TEAM/handbuch-style/main/README.md
+link:   https://raw.githubusercontent.com/IHR-TEAM/handbuch-style/main/style.css
 -->
 ```
 
