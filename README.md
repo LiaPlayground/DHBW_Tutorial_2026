@@ -1,4 +1,4 @@
-# DHBW_Tutorial_2026
+# DHBW Tutorial 2026
 
 LiaScript Einstiegstutorial für Lehrende der Dualen Hochschulen Baden-Württemberg.
 
@@ -28,11 +28,6 @@ im Live Editor (inkl. kurzer Pause).
 [Verbreitung von Kursen](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/main/04_Verbreiten.md)
 — Publikation, GitHub und KI-Integration.
 
-## Zusätzliche Ressourcen
-
-Ein [Vertiefungsmodul](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/main/05_Vertiefung.md)
-beantwortet offene Teilnehmerfragen anhand praktischer Beispiele (Selbststudium).
-
 ## Zeitplan im Überblick
 
 | Phase          | Dauer       | Fokus                                          |
@@ -43,6 +38,11 @@ beantwortet offene Teilnehmerfragen anhand praktischer Beispiele (Selbststudium)
 | 4 – Verbreiten | 15 Min      | Publikation, GitHub, KI-Integration            |
 | *Puffer*       | 20 Min      | Begrüßung, Technik, Fragen                     |
 | **Summe**      | **120 Min** |                                                |
+
+## Zusätzliche Ressourcen
+
+Ein [Vertiefungsmodul](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/main/05_Vertiefung.md)
+beantwortet interessante Teilnehmerfragen aus vorangegangenen Tutorials anhand praktischer Beispiele (Selbststudium).
 
 ## Lizenz
 

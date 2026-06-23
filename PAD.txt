@@ -1,0 +1,41 @@
+Workshop DHBW, 23.06.2026
+Interaktive OER mit LiaScript erstellen
+
+Materialübersicht
+https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/main/README.md
+
+---------------------------------------------------------------------------------------------------
+
+
+Materialien der Veranstaltung
+https://github.com/LiaPlayground/DHBW_Tutorial_2026
+
+Phase 1 — Erleben
+
+Phase 1 als nativer LiaScript Kurs
+https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/main/01_Erleben.md#1
+
+Phase 1 als SCORM Kurs
+[SCORM-Link bitte neu erzeugen — siehe Hinweis unten]
+
+Phase 2 — Verstehen
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/main/02_Verstehen.md#1
+
+Phase 3 — Anwenden
+
+LiveEditor
+https://liascript.github.io/LiveEditor
+
+Material für die praktische Phase
+https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/refs/heads/main/03_Anwenden.md
+
+Phase 4 — Verbreiten
+
+LiaScript Kurse verbreiten
+https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/main/04_Verbreiten.md#1
+
+Vertiefung & FAQ
+
+Antworten auf die offenen Fragen, je am Beispiel
+https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/main/05_Vertiefung.md
