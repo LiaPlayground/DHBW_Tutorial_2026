@@ -23,11 +23,12 @@ wir nicht alle. Empfehlung:
     Teil 1: Aufgabe 1, 2, 3, 4, 8
     Teil 2: Aufgabe 9, 10, 12, 13
 
-  OPTIONAL / SELBSTSTUDIUM (~20 Min oder als Hausaufgabe):
+  VERTIEFEND (~20 Min, im Workshop):
     Teil 1: Aufgabe 5, 6, 7
     Teil 2: Aufgabe 11, 14, 15
 
-Die optionalen Aufgaben sind unten mit [OPTIONAL] markiert.
+Die vertiefenden Aufgaben sind unten mit [OPTIONAL] markiert
+und können bei Zeitmangel ins Selbststudium verschoben werden.
 ============================================================
 --->
 
