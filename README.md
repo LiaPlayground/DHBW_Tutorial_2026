@@ -1,9 +1,8 @@
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/DHBW_Tutorial_2026/main/README.md)
+
 # DHBW Tutorial 2026
 
 LiaScript Einstiegstutorial für Lehrende der Dualen Hochschulen Baden-Württemberg.
-
-> **Kompaktformat: 2 Stunden.** Adaptiert aus dem ausführlichen
-> [Cowork-Tutorial 2026](https://github.com/LiaPlayground/Cowork_Tutorial_2026).
 
 ## Veranstaltungsinformationen
 
